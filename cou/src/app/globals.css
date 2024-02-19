@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(165, 165, 252);
+}
+.usbhaius{
+    display:flex;
+    justify-content: center;
+    margin-top: 40vh;
+}
+.why{
+    font-size: xx-large;
+    background-color: aquamarine;
+    height: 70px;
+    width: 200px;
+    border:5px solid  rgb(255, 133, 127);
+    border-radius: 8px;
+    box-shadow: 5px 5px;
+    
+}
